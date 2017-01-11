@@ -1,0 +1,6 @@
+<?
+$robots      = '';
+$title       = '';
+$description = '';
+$keywords    = '';	
+?>
