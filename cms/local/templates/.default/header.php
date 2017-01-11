@@ -1,5 +1,5 @@
 <?
-
+include($_SERVER['DOCUMENT_ROOT'].$_SERVER['REQUEST_URI'].'.selection.php');
 ?>
 <!DOCTYPE html>
 
