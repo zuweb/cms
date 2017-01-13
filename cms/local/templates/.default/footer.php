@@ -4,7 +4,7 @@
 		
 	</footer>
 
-	<script src=""></script>
+	<script src="/core/assets/jquery/jquery.min.js"></script>
 
 </body>
 </html>
