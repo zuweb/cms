@@ -1,5 +1,6 @@
 <?
 include($_SERVER['DOCUMENT_ROOT'].$_SERVER['REQUEST_URI'].'.selection.php');
+include($_SERVER['DOCUMENT_ROOT'].'/core/templates/.default/.selection.php');
 ?>
 <!DOCTYPE html>
 
@@ -16,7 +17,7 @@ include($_SERVER['DOCUMENT_ROOT'].$_SERVER['REQUEST_URI'].'.selection.php');
 	
 	<title><?echo $title?></title>
 	
-	<link rel="stylesheet" href="">
+	<link rel="stylesheet" href="<?echo $site_template?>/style.css">
 
 </head>
 <body>
